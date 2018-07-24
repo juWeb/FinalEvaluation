@@ -85,7 +85,7 @@ if($queryUsers->execute()) {
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Exercice 1</title>
+	<title>Exercice 2</title>
 	
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 </head>
